@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SokpopBootleg.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{087070D6-5B01-4DBC-8B2C-4F008D0AE533}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SokpopBootleg.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SokpopBootlegEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C0343D31-1165-4564-806F-3EB90A1BA4B3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SokpopBootleg">
+      <UniqueIdentifier>{197C20B9-C10A-4119-BC77-2AB945DF1732}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SokpopBootleg\SokpopBootleg.Build.cs">
+      <Filter>Source\SokpopBootleg</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SokpopBootleg\SokpopBootleg.cpp">
+      <Filter>Source\SokpopBootleg</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SokpopBootleg\SokpopBootleg.h">
+      <Filter>Source\SokpopBootleg</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SokpopBootleg\SokpopBootlegGameModeBase.cpp">
+      <Filter>Source\SokpopBootleg</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SokpopBootleg\SokpopBootlegGameModeBase.h">
+      <Filter>Source\SokpopBootleg</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
