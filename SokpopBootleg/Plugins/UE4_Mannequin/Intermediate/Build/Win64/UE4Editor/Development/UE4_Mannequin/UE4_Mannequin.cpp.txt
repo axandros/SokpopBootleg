@@ -1,0 +1,2 @@
+C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Plugins\UE4_Mannequin\Intermediate\Build\Win64\UE4Editor\Development\UE4_Mannequin\Definitions.UE4_Mannequin.h
+C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Plugins\UE4_Mannequin\Source\UE4_Mannequin\Public\UE4_Mannequin.h

@@ -1,7 +1,7 @@
-C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\Definitions.SokpopBootleg.h
-C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Source\SokpopBootleg\SokpopBootlegGameModeBase.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Inc\SokpopBootleg\SokpopBootlegGameModeBase.generated.h
+C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\Definitions.SokpopBootleg.h
+C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Source\SokpopBootleg\SokpopBootlegGameModeBase.h
+F:\Program Files (x86)\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+F:\Program Files (x86)\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+F:\Program Files (x86)\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+F:\Program Files (x86)\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Inc\SokpopBootleg\SokpopBootlegGameModeBase.generated.h

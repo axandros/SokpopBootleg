@@ -1,2 +1,2 @@
-C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\Definitions.SokpopBootleg.h
-C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Source\SokpopBootleg\SokpopBootleg.h
+C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\Definitions.SokpopBootleg.h
+C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Source\SokpopBootleg\SokpopBootleg.h
