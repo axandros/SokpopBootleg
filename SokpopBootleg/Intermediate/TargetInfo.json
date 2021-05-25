@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "SokpopBootleg",
-			"Path": "C:\\Users\\Bruma\\Documents\\Repo\\SokpopBootleg\\SokpopBootleg\\Source\\SokpopBootleg.Target.cs",
+			"Path": "C:\\Users\\Brumagint\\Documents\\Unreal Projects\\SokpopBootleg\\SokpopBootleg\\Source\\SokpopBootleg.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "SokpopBootlegEditor",
-			"Path": "C:\\Users\\Bruma\\Documents\\Repo\\SokpopBootleg\\SokpopBootleg\\Source\\SokpopBootlegEditor.Target.cs",
+			"Path": "C:\\Users\\Brumagint\\Documents\\Unreal Projects\\SokpopBootleg\\SokpopBootleg\\Source\\SokpopBootlegEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
