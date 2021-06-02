@@ -6,11 +6,11 @@
 /NAME:"UE4Editor-SokpopBootleg.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\SokpopBootlegEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\SokpopBootleg.cpp.obj"
-"C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\SokpopBootlegGameModeBase.cpp.obj"
-"C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\SokpopBootleg.init.gen.cpp.obj"
-"C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\SokpopBootlegGameModeBase.gen.cpp.obj"
-"C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\Default.rc2.res"
-/OUT:"C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\UE4Editor-SokpopBootleg.lib"
+"C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\SokpopBootlegEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\SokpopBootleg.cpp.obj"
+"C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\SokpopBootlegGameModeBase.cpp.obj"
+"C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\SokpopBootleg.init.gen.cpp.obj"
+"C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\SokpopBootlegGameModeBase.gen.cpp.obj"
+"C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\Default.rc2.res"
+/OUT:"C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\UE4Editor-SokpopBootleg.lib"
 /INCLUDE:IMPLEMENT_MODULE_SokpopBootleg

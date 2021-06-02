@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SokpopBootleg.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{8E7E8A6C-334F-4DA1-9A7D-B3CE9C9C5E02}</UniqueIdentifier>
+      <UniqueIdentifier>{642A77CC-78C9-470F-AE40-807CAAD2DA72}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SokpopBootleg.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5A47A9CA-B2CE-461C-A183-3E3EB935EAE1}</UniqueIdentifier>
+      <UniqueIdentifier>{4FCBA5E4-301E-4AA3-8377-ABD13CCB9EDB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,28 +27,28 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Plugins">
-      <UniqueIdentifier>{97EE17B6-FD80-407A-A675-20734774BF22}</UniqueIdentifier>
+      <UniqueIdentifier>{6A9E9C6D-AA41-45F4-B0FA-8706EDA83CF7}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\UE4_Mannequin">
-      <UniqueIdentifier>{1CA01C50-2554-4EDD-8C5F-24AD6EB17F74}</UniqueIdentifier>
+      <UniqueIdentifier>{D7EE2E45-AC4C-41CA-AB64-6DFACCA196D5}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\UE4_Mannequin\Source">
-      <UniqueIdentifier>{F77B3479-D3E9-45FA-B9E3-78DA8E4D5A6E}</UniqueIdentifier>
+      <UniqueIdentifier>{6B084850-68A0-483A-881B-D209916ADEC4}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\UE4_Mannequin\Source\UE4_Mannequin">
-      <UniqueIdentifier>{C36445E0-B346-4F52-B67F-4A513F330A36}</UniqueIdentifier>
+      <UniqueIdentifier>{F1269781-EC32-4538-A070-9A65F60D7E1D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\UE4_Mannequin\Source\UE4_Mannequin\UE4_Mannequin.Build.cs">
       <Filter>Plugins\UE4_Mannequin\Source\UE4_Mannequin</Filter>
     </None>
     <Filter Include="Plugins\UE4_Mannequin\Source\UE4_Mannequin\Private">
-      <UniqueIdentifier>{AC3DB5B5-FAEF-4B9D-80CF-D4824DDDEB17}</UniqueIdentifier>
+      <UniqueIdentifier>{A570CFC7-7E94-4BA6-9B74-CFC36364859C}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\UE4_Mannequin\Source\UE4_Mannequin\Private\UE4_Mannequin.cpp">
       <Filter>Plugins\UE4_Mannequin\Source\UE4_Mannequin\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\UE4_Mannequin\Source\UE4_Mannequin\Public">
-      <UniqueIdentifier>{5122DAB8-2D83-4333-AD56-8608E85FDD81}</UniqueIdentifier>
+      <UniqueIdentifier>{AC779F16-5E10-4E8B-9F78-33F876B9ABEE}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\UE4_Mannequin\Source\UE4_Mannequin\Public\UE4_Mannequin.h">
       <Filter>Plugins\UE4_Mannequin\Source\UE4_Mannequin\Public</Filter>
@@ -56,14 +56,20 @@
     <None Include="..\..\Plugins\UE4_Mannequin\UE4_Mannequin.uplugin">
       <Filter>Plugins\UE4_Mannequin</Filter>
     </None>
+    <Filter Include="Plugins\UE4_Mannequin\Config">
+      <UniqueIdentifier>{4589645D-C29C-4EA7-881C-04CD06BADC26}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UE4_Mannequin\Config\FilterPlugin.ini">
+      <Filter>Plugins\UE4_Mannequin\Config</Filter>
+    </None>
     <Filter Include="Plugins\UE4_Mannequin\Resources">
-      <UniqueIdentifier>{06E5E2FA-87CA-4CBB-B954-48A398169695}</UniqueIdentifier>
+      <UniqueIdentifier>{7CA09858-6A3D-45EF-A2AF-AA2D22F47C86}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\UE4_Mannequin\Resources\Icon128.png">
       <Filter>Plugins\UE4_Mannequin\Resources</Filter>
     </None>
     <Filter Include="Source\SokpopBootleg">
-      <UniqueIdentifier>{169D87E4-B3BF-4A45-8211-5E4A7CD373E2}</UniqueIdentifier>
+      <UniqueIdentifier>{2EB066F3-C3FD-42FB-B973-BAC21127C62A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SokpopBootleg\SokpopBootleg.Build.cs">
       <Filter>Source\SokpopBootleg</Filter>

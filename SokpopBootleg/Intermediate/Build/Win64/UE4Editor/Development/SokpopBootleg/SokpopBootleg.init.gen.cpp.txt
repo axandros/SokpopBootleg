@@ -1,3 +1,3 @@
-C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\Definitions.SokpopBootleg.h
-F:\Program Files (x86)\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-F:\Program Files (x86)\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\UE4Editor\Development\SokpopBootleg\Definitions.SokpopBootleg.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Brumagint\\Documents\\Unreal Projects\\SokpopBootleg\\SokpopBootleg\\Source\\SokpopBootleg\\SokpopBootleg.Build.cs",
-		"C:\\Users\\Brumagint\\Documents\\Unreal Projects\\SokpopBootleg\\SokpopBootleg\\Plugins\\UE4_Mannequin\\Source\\UE4_Mannequin\\UE4_Mannequin.Build.cs",
-		"C:\\Users\\Brumagint\\Documents\\Unreal Projects\\SokpopBootleg\\SokpopBootleg\\Source\\SokpopBootleg.Target.cs",
-		"C:\\Users\\Brumagint\\Documents\\Unreal Projects\\SokpopBootleg\\SokpopBootleg\\Source\\SokpopBootlegEditor.Target.cs"
+		"C:\\Users\\Bruma\\Documents\\Repo\\SokpopBootleg\\SokpopBootleg\\Source\\SokpopBootleg\\SokpopBootleg.Build.cs",
+		"C:\\Users\\Bruma\\Documents\\Repo\\SokpopBootleg\\SokpopBootleg\\Plugins\\UE4_Mannequin\\Source\\UE4_Mannequin\\UE4_Mannequin.Build.cs",
+		"C:\\Users\\Bruma\\Documents\\Repo\\SokpopBootleg\\SokpopBootleg\\Source\\SokpopBootleg.Target.cs",
+		"C:\\Users\\Bruma\\Documents\\Repo\\SokpopBootleg\\SokpopBootleg\\Source\\SokpopBootlegEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }

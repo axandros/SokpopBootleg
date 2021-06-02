@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-UE4_Mannequin.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\SokpopBootlegEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Plugins\UE4_Mannequin\Intermediate\Build\Win64\UE4Editor\Development\UE4_Mannequin\UE4_Mannequin.cpp.obj"
-"C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Plugins\UE4_Mannequin\Intermediate\Build\Win64\UE4Editor\Development\UE4_Mannequin\Default.rc2.res"
-/OUT:"C:\Users\Brumagint\Documents\Unreal Projects\SokpopBootleg\SokpopBootleg\Plugins\UE4_Mannequin\Intermediate\Build\Win64\UE4Editor\Development\UE4_Mannequin\UE4Editor-UE4_Mannequin.lib"
+"C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Intermediate\Build\Win64\SokpopBootlegEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Plugins\UE4_Mannequin\Intermediate\Build\Win64\UE4Editor\Development\UE4_Mannequin\UE4_Mannequin.cpp.obj"
+"C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Plugins\UE4_Mannequin\Intermediate\Build\Win64\UE4Editor\Development\UE4_Mannequin\Default.rc2.res"
+/OUT:"C:\Users\Bruma\Documents\Repo\SokpopBootleg\SokpopBootleg\Plugins\UE4_Mannequin\Intermediate\Build\Win64\UE4Editor\Development\UE4_Mannequin\UE4Editor-UE4_Mannequin.lib"
 /INCLUDE:IMPLEMENT_MODULE_UE4_Mannequin
